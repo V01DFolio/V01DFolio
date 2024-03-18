@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @V01D
+- 👀 I’m interested in Data analytics , Web development , Customization , Linux
+- 🌱 I’m currently learning Data analytics and SvelteKit
+- 📫 How to reach me: (Email: fyl.void@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Arch and doing some scraping!
